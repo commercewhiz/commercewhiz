@@ -18,7 +18,7 @@ Love to build Mobile and Web Applications with latest tech available😄
 - 💬 Approachable and open to engaging in discussions and partnerships to foster growth and innovation.
 - 📬 For inquiries or collaboration opportunities, please feel free to connect with me via [Schedule a call](https://calendly.com/talk30mins-thomas/30min).
 - 🧗 Striving to push the boundaries of technology and explore new horizons in the digital landscape.
-- ⚡ Fun fact: I find joy in listening to the podcast [JSparty](https://changelog.com/jsparty) and staying updated on the latest TED Talks.
+- ⚡ Fun fact: I find joy in listening to the podcast [JSparty](https://changelog.com/jsparty) and staying updated on the latest [TED Talks](https://www.ted.com/).
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
