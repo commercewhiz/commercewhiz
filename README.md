@@ -3,7 +3,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate JavaScript Full-Stack Developer. 
+<h3 align="center">A Passionate Tech Guy. 
 Love to build Mobile and Web Applications with latest tech available😄
 </h3>
 
