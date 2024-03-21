@@ -11,13 +11,13 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Full Stack Developer at Viewfi
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🌱 Continuously expanding my knowledge in cutting-edge technologies such as AI and Blockchain, always seeking innovative ways to interconnect various fields.
+- 👯 Actively seeking collaboration opportunities with talented individuals to foster creativity and drive impactful results.
+- 🥅 By 2024, my goal is to develop a product that resonates with users, aiming to reach a user base exceeding 10 million.
+- 💬 Approachable and open to engaging in discussions and partnerships to foster growth and innovation.
+- 📬 For inquiries or collaboration opportunities, please feel free to connect with me via [LinkedIn][linkedin].
+- 🧗 Striving to push the boundaries of technology and explore new horizons in the digital landscape.
+- ⚡ Fun fact: I find joy in listening to the podcast [JSparty] and staying updated on the latest TED Talks.
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
